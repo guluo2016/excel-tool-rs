@@ -1,0 +1,7 @@
+[package]
+name = "excel-tool-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+calamine = "0.28"
