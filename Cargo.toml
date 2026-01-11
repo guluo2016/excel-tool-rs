@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 calamine = "0.28"
+polars = "0.52"
+anyhow = "1.0"
